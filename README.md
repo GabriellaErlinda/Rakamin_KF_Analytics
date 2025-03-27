@@ -7,6 +7,7 @@ Tools used: BigQuery, Google Looker Studio
 
 <details>
   <summary> Berikut ini adalah Query yang saya gunakan </summary>
+  
     ```
     CREATE TABLE kf_data.kf_tabel_analisa AS
     SELECT
@@ -80,3 +81,4 @@ Tools used: BigQuery, Google Looker Studio
     SELECT * FROM kf_data.kf_tabel_analisa;
     ```
 </details>
+
