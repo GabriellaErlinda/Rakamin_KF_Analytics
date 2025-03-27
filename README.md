@@ -1,1 +1,3 @@
-# Rakamin_KF_Analytics
+# Kimia Farma Big Data Analytics Project Based Internship Program
+
+Tools used: 
